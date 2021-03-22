@@ -1,0 +1,13 @@
+package com.kevinzhuo.gitassess;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GithubAssessment {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GithubAssessment.class, args);
+	}
+
+}
